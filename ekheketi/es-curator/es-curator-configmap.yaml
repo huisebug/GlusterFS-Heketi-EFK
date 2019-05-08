@@ -26,7 +26,7 @@ data:
           source: name
           direction: older
           timestring: '%Y.%m.%d'
-          #删除超过3天的索引
+          #删除超过7天的索引
           unit: days
           unit_count: 7
           field:
