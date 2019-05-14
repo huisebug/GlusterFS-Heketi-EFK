@@ -1,3 +1,2 @@
-*.js linguist-language=yaml
-*.css linguist-language=yaml 
-*.html linguist-language=yaml
+*.yaml linguist-language=k8s
+
