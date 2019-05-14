@@ -1,2 +1,3 @@
 *.yaml linguist-language=k8s
+*.json linguist-language=k8s
 
